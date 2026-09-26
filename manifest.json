@@ -3,17 +3,18 @@
   "name": "Quick Links - URL Shortener",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+      "src": "https://files.catbox.moe/7z38fh.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+      "src": "https://files.catbox.moe/7z38fh.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/My-Url-shortner/",
+  "start_url": "./index.html",
+  "scope": "./",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
   "display": "standalone",
